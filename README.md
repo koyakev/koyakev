@@ -1,6 +1,6 @@
 ![download](https://github.com/koyakev/koyakev/assets/131784571/af3b60cd-1367-4e5b-b7e6-ef6dc4f08d3e)
 
-<h1>Hello! This is my profile, I'm koyakev</h1>h1>
+<h1>Hello! This is my profile, I'm koyakev</h1>
 
 <p>I am Kevin Yu, a 3rd Year Bachelor in Science in Information Technological student in Technological Institute of the Philippines</p>
 
