@@ -6,7 +6,7 @@
 
 <p>I am Kevin Yu, a 3rd Year Bachelor in Science in Information Technological student in Technological Institute of the Philippines</p>
 
-<h2>My Techstack New</h2>
+<h2>My Techstack</h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%232c3e50?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-%232c3e50?style=for-the-badge&logo=CSS3)
