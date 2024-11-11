@@ -14,11 +14,3 @@
 ![MySQL](https://img.shields.io/badge/-mySQL-%232c3e50?style=for-the-badge&logo=mysql)
 ![Java](https://img.shields.io/badge/-Java-%232c3e50?style=for-the-badge&logo=java)
 ![Bootstrap](https://img.shields.io/badge/-Boostrap-%232c3e50?style=for-the-badge&logo=bootstrap)
-
-<h2>My Projects</h2>
-
-![unnamed](https://github.com/koyakev/koyakev/assets/131784571/0449b028-6188-4bac-b9b0-236fb248744e)
-
-
-
-</div>
